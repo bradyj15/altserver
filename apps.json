@@ -2,15 +2,29 @@
   "name": "BJ Repo",
   "identifier": "org.provenance-emu.AltStore",
   "sourceURL": "https://provenance-emu.com/apps.json",
-  "apps": [
+  "apps": 
+  [
     {
       "name": "uYouPlus",
       "bundleIdentifier": "uyouplus",
-      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "subtitle": "uYouPlus",
       "version": "18.14.1-30",
       "versionDate": "2023-04-27T00:01:00-05:00",
       "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
       "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+      "tintColor": "#162434",
+      "size": 77010038,
+    }
+  ],
+  [
+    {
+      "name": "Retroarch",
+      "bundleIdentifier": "retroarch",
+      "subtitle": "Retroarch",
+      "version": "1.15",
+      "versionDate": "2023-03-15T00:01:00-05:00",
+      "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+      "iconURL": "https://forums.libretro.com/uploads/default/original/2X/8/88be0c79786a2e364b16067f68d720492cb3dc44.ico",
       "tintColor": "#162434",
       "size": 77010038,
     }
