@@ -1,0 +1,19 @@
+{
+  "name": "BJ Repo",
+  "identifier": "org.provenance-emu.AltStore",
+  "sourceURL": "https://provenance-emu.com/apps.json",
+  "apps": [
+    {
+      "name": "uYouPlus",
+      "bundleIdentifier": "uyouplus",
+      "subtitle": "Multi-emulator frontend for iOS & tvOS",
+      "version": "18.14.1-30",
+      "versionDate": "2023-04-27T00:01:00-05:00",
+      "downloadURL": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+      "iconURL": "https://provenance-emu.com/images/icons/icon.512x512.png",
+      "tintColor": "#162434",
+      "size": 77010038,
+    }
+  ],
+
+}
